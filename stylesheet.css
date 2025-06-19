@@ -1,0 +1,27 @@
+@font-face {
+    font-family: '경기천년제목';
+    src: url('GyeonggiTitle/GyeonggiTitleB.woff2') format('woff2'),
+        url('GyeonggiTitle/GyeonggiTitleB.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '경기천년제목';
+    src: url('GyeonggiTitle/GyeonggiTitleM.woff2') format('woff2'),
+        url('GyeonggiTitle/GyeonggiTitleM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '경기천년제목';
+    src: url('GyeonggiTitle/GyeonggiTitleL.woff2') format('woff2'),
+        url('GyeonggiTitle/GyeonggiTitleL.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
