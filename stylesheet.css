@@ -213,3 +213,13 @@
   font-style: normal;
   font-display: swap;
 }
+
+/** 조선굴림체 */
+@font-face {
+  font-family: '조선굴림체';
+  src: url('ChosunGulim/ChosunGu.woff2') format('woff2'),
+    url('ChosunGulim/ChosunGu.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
