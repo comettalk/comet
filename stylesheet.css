@@ -223,3 +223,21 @@
   font-style: normal;
   font-display: swap;
 }
+
+/** 경기천년바탕 */
+@font-face {
+  font-family: '경기천년바탕';
+  src: url('GyeonggiBatang/BatangRegular.woff2') format('woff2'),
+    url('GyeonggiBatang/BatangRegular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: '경기천년바탕';
+  src: url('GyeonggiBatang/BatangBold.woff2') format('woff2'),
+    url('GyeonggiBatang/BatangBold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
